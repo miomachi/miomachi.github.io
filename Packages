@@ -1,7 +1,7 @@
 Package: nnm.mbrc.tool
 Version: 2.9
 Architecture: iphoneos-arm
-Maintainer: Autotool iOS
+Maintainer: Autotool iOS <miomachi001@gmail.com>
 Filename: /brctool29.deb
 Size: 3430608
 MD5sum: 5ff15420eec08e88b2340eed4e61c337
