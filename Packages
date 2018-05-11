@@ -10,4 +10,18 @@ SHA256: 140dd415eb64ec02d46a4e6ea2034b3021b92fcf94f639dd71033ab003d3acdf
 Section: Tweaks
 Description: BRC Tool
 Author: Autotool iOS <miomachi001@gmail.com>
-Name: Autotool iOS
+Name: BRC Tool
+
+Package: brc.location.faker
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Autotool iOS <miomachi001@gmail.com>
+Filename: /locationfaker.deb
+Size: 558820
+MD5sum: 1f05c5579a57cfab7f943c69e53eb820
+SHA1: 9fadec720fbc9bb85ec8c5092cdadf34a3087fba
+SHA256: 9ef429d1e8855a2279db6b63d4a884b2fec7de34f84f88e80de6f66460ce9fb8
+Section: Tweaks
+Description: Locationfaker
+Author: Autotool iOS <miomachi001@gmail.com>
+Name: Location Faker
