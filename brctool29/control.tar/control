@@ -1,0 +1,10 @@
+Package: nnm.mbrc.tool
+Name: BRC Tool
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap,libactivator (>= 1.8.3),com.autopear.installipa
+Architecture: iphoneos-arm
+Description: Backup, Restore App - Change Device Info for iPhone/iPad
+Maintainer: NNM
+Author: NNM
+Section: Utilities
+Version: 2.9-3+debug
+Installed-Size: 19912
