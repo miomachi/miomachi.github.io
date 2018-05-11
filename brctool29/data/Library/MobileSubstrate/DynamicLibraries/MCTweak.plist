@@ -1,9 +1,0 @@
-{
-	Filter = {
-		Bundles = (
-			"com.apple.managedconfiguration.profiled",
-			"com.apple.UIKit",
-			"com.apple.springboard",
-		);
-	};
-}
