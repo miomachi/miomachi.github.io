@@ -3,7 +3,7 @@ Version: 2.9
 Architecture: iphoneos-arm
 Maintainer: Autotool iOS
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap,libactivator (>= 1.8.3),com.autopear.installipa
-Filename: /brctool29.deb
+Filename: ./des/brctool29.deb
 Size: 3430608
 MD5sum: 5ff15420eec08e88b2340eed4e61c337
 SHA1: af758fa331f0aa24ba2da8fbe97e5c5102ac2b79
