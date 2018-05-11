@@ -1,0 +1,11 @@
+MobileTel|013|310|us
+IT&E|032|310|us
+AT&T|070|310|us
+Alltel|590|310|us
+T-Mobile USA|200|310|us
+T-Mobile USA|210|310|us
+T-Mobile USA|220|310|us
+T-Mobile USA|230|310|us
+T-Mobile USA|240|310|us
+T-Mobile USA|026|310|us
+Docomo|370|310|us

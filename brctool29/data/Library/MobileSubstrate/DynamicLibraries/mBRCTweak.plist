@@ -1,0 +1,10 @@
+{
+	Filter = {
+		Bundles = (
+			"com.apple.Foundation",
+			"com.apple.springboard",
+			"com.apple.UIKit",
+			"com.apple.mobilesafari",
+		);
+	};
+}
