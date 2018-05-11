@@ -1,4 +1,4 @@
-Package: nnm.mbrc.tool
+Package: brc.nnm.mbrc.tool
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Autotool iOS <miomachi001@gmail.com>
