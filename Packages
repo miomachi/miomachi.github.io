@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-Package: nnm.mbrc.tool
-Version: 2.9.1
-=======
 Package: brc.nnm.mbrc.tool
-Version: 1.0
->>>>>>> 12c384532fd035733745f38d0764d82e79394db7
+Version: 2.9.1
 Architecture: iphoneos-arm
 Maintainer: Autotool iOS <miomachi001@gmail.com>
 Filename: /brctool291.deb
